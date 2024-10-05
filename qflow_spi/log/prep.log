@@ -1,0 +1,11 @@
+Qflow project preparation output log Sat Jun 29 11:38:43 2024
+
+--------------------------------
+Qflow project setup
+--------------------------------
+
+Technology set to osu018
+
+No actions specified on command line;
+creating qflow script file /home/rudra/qflow_spi/qflow_exec.sh only.
+Uncomment lines in this file and source the file to run the flow.

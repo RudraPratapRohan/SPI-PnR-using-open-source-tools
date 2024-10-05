@@ -1,0 +1,669 @@
+[
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "Q",
+        "CLK",
+        "R",
+        "S",
+        "D",
+        "gnd",
+        "vdd"
+      ], [
+        "Q",
+        "CLK",
+        "R",
+        "S",
+        "D",
+        "gnd",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "S",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "S",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "spi_top",
+      "spi_top"
+   ],
+   "devices": [
+       [
+         ["OAI21X1", 799],
+         ["AND2X2", 33],
+         ["DFFSR", 253],
+         ["NAND2X1", 347],
+         ["AOI21X1", 269],
+         ["AOI22X1", 85],
+         ["NAND3X1", 209],
+         ["OAI22X1", 45],
+         ["INVX2", 165],
+         ["BUFX4", 248],
+         ["NOR2X1", 350],
+         ["OR2X2", 21],
+         ["XNOR2X1", 12],
+         ["INVX8", 24],
+         ["INVX1", 164],
+         ["NOR3X1", 3],
+         ["CLKBUF1", 67],
+         ["MUX2X1", 11],
+         ["XOR2X1", 4],
+         ["INVX4", 11],
+         ["BUFX2", 69 ]
+       ], [
+         ["OAI21X1", 799 ],
+         ["AND2X2", 33 ],
+         ["DFFSR", 253 ],
+         ["NAND2X1", 347 ],
+         ["AOI21X1", 269 ],
+         ["AOI22X1", 85 ],
+         ["NAND3X1", 209 ],
+         ["OAI22X1", 45 ],
+         ["INVX2", 165 ],
+         ["BUFX4", 248 ],
+         ["NOR2X1", 350 ],
+         ["OR2X2", 21 ],
+         ["XNOR2X1", 12 ],
+         ["INVX8", 24 ],
+         ["INVX1", 164 ],
+         ["NOR3X1", 3 ],
+         ["CLKBUF1", 67 ],
+         ["MUX2X1", 11 ],
+         ["XOR2X1", 4 ],
+         ["INVX4", 11 ],
+         ["BUFX2", 69 ]
+       ]
+   ],
+   "nets": [
+    3236,
+    3236
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "wb_we_i",
+        "sclk_pad_o",
+        "wb_ack_o",
+        "wb_dat_o[1]",
+        "wb_dat_o[3]",
+        "wb_dat_o[7]",
+        "wb_dat_o[11]",
+        "wb_dat_o[22]",
+        "ss_pad_o[0]",
+        "ss_pad_o[1]",
+        "ss_pad_o[2]",
+        "ss_pad_o[5]",
+        "ss_pad_o[6]",
+        "ss_pad_o[4]",
+        "ss_pad_o[9]",
+        "ss_pad_o[10]",
+        "ss_pad_o[11]",
+        "ss_pad_o[7]",
+        "ss_pad_o[14]",
+        "ss_pad_o[13]",
+        "ss_pad_o[12]",
+        "ss_pad_o[3]",
+        "ss_pad_o[8]",
+        "ss_pad_o[15]",
+        "ss_pad_o[17]",
+        "ss_pad_o[18]",
+        "ss_pad_o[16]",
+        "ss_pad_o[19]",
+        "ss_pad_o[20]",
+        "ss_pad_o[21]",
+        "ss_pad_o[22]",
+        "ss_pad_o[23]",
+        "ss_pad_o[24]",
+        "ss_pad_o[25]",
+        "ss_pad_o[26]",
+        "ss_pad_o[27]",
+        "ss_pad_o[28]",
+        "ss_pad_o[29]",
+        "ss_pad_o[30]",
+        "ss_pad_o[31]",
+        "wb_dat_o[6]",
+        "wb_dat_o[16]",
+        "wb_dat_o[21]",
+        "wb_dat_o[0]",
+        "wb_dat_o[2]",
+        "wb_dat_o[5]",
+        "wb_dat_o[17]",
+        "wb_dat_o[18]",
+        "wb_dat_o[20]",
+        "wb_dat_o[23]",
+        "wb_dat_o[26]",
+        "wb_dat_o[28]",
+        "wb_dat_o[30]",
+        "wb_dat_o[31]",
+        "wb_dat_o[4]",
+        "wb_dat_o[8]",
+        "wb_dat_o[9]",
+        "wb_dat_o[10]",
+        "wb_dat_o[12]",
+        "wb_dat_o[13]",
+        "wb_dat_o[14]",
+        "wb_dat_o[15]",
+        "wb_dat_o[19]",
+        "wb_dat_o[27]",
+        "wb_dat_o[29]",
+        "wb_dat_o[25]",
+        "wb_dat_o[24]",
+        "wb_err_o",
+        "wb_int_o",
+        "mosi_pad_o",
+        "miso_pad_i",
+        "wb_clk_i",
+        "wb_adr_i[3]",
+        "wb_adr_i[4]",
+        "wb_sel_i[1]",
+        "wb_sel_i[0]",
+        "wb_sel_i[2]",
+        "wb_sel_i[3]",
+        "wb_adr_i[2]",
+        "wb_dat_i[26]",
+        "wb_dat_i[27]",
+        "wb_dat_i[28]",
+        "wb_dat_i[29]",
+        "wb_dat_i[31]",
+        "wb_dat_i[10]",
+        "wb_dat_i[11]",
+        "wb_rst_i",
+        "wb_cyc_i",
+        "wb_stb_i",
+        "wb_dat_i[24]",
+        "wb_dat_i[16]",
+        "wb_dat_i[22]",
+        "wb_dat_i[30]",
+        "wb_dat_i[25]",
+        "wb_dat_i[23]",
+        "wb_dat_i[21]",
+        "wb_dat_i[20]",
+        "wb_dat_i[19]",
+        "wb_dat_i[18]",
+        "wb_dat_i[17]",
+        "wb_dat_i[14]",
+        "wb_dat_i[15]",
+        "wb_dat_i[8]",
+        "wb_dat_i[0]",
+        "wb_dat_i[6]",
+        "wb_dat_i[5]",
+        "wb_dat_i[9]",
+        "wb_dat_i[4]",
+        "wb_dat_i[3]",
+        "wb_dat_i[2]",
+        "wb_dat_i[1]",
+        "wb_dat_i[13]",
+        "wb_dat_i[12]",
+        "wb_dat_i[7]",
+        "vdd",
+        "gnd",
+        "wb_adr_i[0]",
+        "wb_adr_i[1]"
+      ], [
+        "wb_we_i",
+        "sclk_pad_o",
+        "wb_ack_o",
+        "wb_dat_o[1]",
+        "wb_dat_o[3]",
+        "wb_dat_o[7]",
+        "wb_dat_o[11]",
+        "wb_dat_o[22]",
+        "ss_pad_o[0]",
+        "ss_pad_o[1]",
+        "ss_pad_o[2]",
+        "ss_pad_o[5]",
+        "ss_pad_o[6]",
+        "ss_pad_o[4]",
+        "ss_pad_o[9]",
+        "ss_pad_o[10]",
+        "ss_pad_o[11]",
+        "ss_pad_o[7]",
+        "ss_pad_o[14]",
+        "ss_pad_o[13]",
+        "ss_pad_o[12]",
+        "ss_pad_o[3]",
+        "ss_pad_o[8]",
+        "ss_pad_o[15]",
+        "ss_pad_o[17]",
+        "ss_pad_o[18]",
+        "ss_pad_o[16]",
+        "ss_pad_o[19]",
+        "ss_pad_o[20]",
+        "ss_pad_o[21]",
+        "ss_pad_o[22]",
+        "ss_pad_o[23]",
+        "ss_pad_o[24]",
+        "ss_pad_o[25]",
+        "ss_pad_o[26]",
+        "ss_pad_o[27]",
+        "ss_pad_o[28]",
+        "ss_pad_o[29]",
+        "ss_pad_o[30]",
+        "ss_pad_o[31]",
+        "wb_dat_o[6]",
+        "wb_dat_o[16]",
+        "wb_dat_o[21]",
+        "wb_dat_o[0]",
+        "wb_dat_o[2]",
+        "wb_dat_o[5]",
+        "wb_dat_o[17]",
+        "wb_dat_o[18]",
+        "wb_dat_o[20]",
+        "wb_dat_o[23]",
+        "wb_dat_o[26]",
+        "wb_dat_o[28]",
+        "wb_dat_o[30]",
+        "wb_dat_o[31]",
+        "wb_dat_o[4]",
+        "wb_dat_o[8]",
+        "wb_dat_o[9]",
+        "wb_dat_o[10]",
+        "wb_dat_o[12]",
+        "wb_dat_o[13]",
+        "wb_dat_o[14]",
+        "wb_dat_o[15]",
+        "wb_dat_o[19]",
+        "wb_dat_o[27]",
+        "wb_dat_o[29]",
+        "wb_dat_o[25]",
+        "wb_dat_o[24]",
+        "wb_err_o",
+        "wb_int_o",
+        "mosi_pad_o",
+        "miso_pad_i",
+        "wb_clk_i",
+        "wb_adr_i[3]",
+        "wb_adr_i[4]",
+        "wb_sel_i[1]",
+        "wb_sel_i[0]",
+        "wb_sel_i[2]",
+        "wb_sel_i[3]",
+        "wb_adr_i[2]",
+        "wb_dat_i[26]",
+        "wb_dat_i[27]",
+        "wb_dat_i[28]",
+        "wb_dat_i[29]",
+        "wb_dat_i[31]",
+        "wb_dat_i[10]",
+        "wb_dat_i[11]",
+        "wb_rst_i",
+        "wb_cyc_i",
+        "wb_stb_i",
+        "wb_dat_i[24]",
+        "wb_dat_i[16]",
+        "wb_dat_i[22]",
+        "wb_dat_i[30]",
+        "wb_dat_i[25]",
+        "wb_dat_i[23]",
+        "wb_dat_i[21]",
+        "wb_dat_i[20]",
+        "wb_dat_i[19]",
+        "wb_dat_i[18]",
+        "wb_dat_i[17]",
+        "wb_dat_i[14]",
+        "wb_dat_i[15]",
+        "wb_dat_i[8]",
+        "wb_dat_i[0]",
+        "wb_dat_i[6]",
+        "wb_dat_i[5]",
+        "wb_dat_i[9]",
+        "wb_dat_i[4]",
+        "wb_dat_i[3]",
+        "wb_dat_i[2]",
+        "wb_dat_i[1]",
+        "wb_dat_i[13]",
+        "wb_dat_i[12]",
+        "wb_dat_i[7]",
+        "vdd",
+        "gnd",
+        "wb_adr_i[0]",
+        "wb_adr_i[1]"
+      ]
+   ]
+  }
+]
